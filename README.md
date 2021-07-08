@@ -19,3 +19,5 @@ d) Imprimir corretamente o histórico de um aluno conforme especificado. (4 pont
 e) Escrever um programa principal ou caso de teste para testar os métodos de 2 alunos matriculados na mesma disciplina, um de graduação e um de pós-graduação. (4 pontos)<br />
 
 Envie um único arquivo em formato ZIP com sua resposta. Outros formatos não serão considerados.<br />
+
+![enter image description here](ClassDiagram/Diagrama%20de%20Classes.png)
